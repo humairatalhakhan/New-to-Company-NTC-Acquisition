@@ -1,6 +1,9 @@
 # New-to-Company-NTC-Acquisition
 The objective of this project is to track **Onboarded corporates** and monitor key KPIs
 
+  <img width="911" height="561" alt="New-to-Company-NTC-Acquisition Dashboard" src="https://github.com/user-attachments/assets/79c20014-ade1-483c-b5db-b968050e1c1c" />
+
+
 ## 📊 Project Overview
 The objective of this project is to track **Onboarded corporates** and monitor key KPIs related to **new-to-company acquisitions**, **card issuance**, and **salary transfers**.  
 This project simulates real business data to demonstrate the **data analytics life cycle**: business understanding → data preparation → analysis → visualization → insights.
@@ -53,7 +56,7 @@ This project simulates real business data to demonstrate the **data analytics li
   - Built an interactive Excel dashboard.  
   - First chart: A donut chart displaying Total Acquisition vs Budget, with the percentage achieved prominently shown in the center for quick insights.
 
-      <img width="305" height="262" alt="First chart" src="https://github.com/user-attachments/assets/88463084-96e4-442e-a1af-94a21ee06c29" />
+      <img width="307" height="263" alt="First chart" src="https://github.com/user-attachments/assets/c2d0443c-aed9-42df-8db5-4d418147d564" />
     
   - Secong chart: A combination chart showing regional achievements for AUH, SHJ, and DXB.
   - Clustered bars represent budget vs actual acquisition for each region.
