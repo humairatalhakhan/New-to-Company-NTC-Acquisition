@@ -97,7 +97,10 @@ To run this project:
 ---
 
 ## 7️⃣ Status
-- ✅ Initial version completed (Excel dashboard with simulated data).  
-- 🔄 Future Work: Will expand to Power BI for advanced interactive visuals.  
+- ✅ Initial Version Completed: Excel dashboard created using simulated data for corporates. Additional data and features will be added as the project progresses.
+- 🔄 Future Work: Plan to expand the dashboard to Power BI for advanced, interactive visualizations.
 
 ---
+
+## 📬 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/humaira-the-analyst/)
