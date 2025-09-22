@@ -103,4 +103,33 @@ To run this project:
 ---
 
 ## 📬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/humaira-the-analyst/)
+- 💡 Contact me on [LinkedIn](https://www.linkedin.com/in/yourprofile) for a sample dashboard Excel file.
+  
+## 📬 Sample Data
+
+- Corporate / Segment	Budget	Actual	% Achieved
+  
+Tony	32	15	46.88%
+
+Jeff	32	25	78.13%
+
+Sara	32	21	65.63%
+
+Donny	32	22	68.75%
+
+**New-to-Company (NTC) Acquisition DXB** & SHJ	128	83	64.84%
+
+Steve	32	30	93.75%
+
+Tom	32	28	87.50%
+
+**New-to-Company (NTC) Acquisition AUH**	64	58	90.63%
+**New-to-Company (NTC) Acquisition Total**	192	141	73.44%
+
+- Notes:
+
+Individual corporates are listed with their Budget, Actual, and % Achieved.
+
+Aggregated rows (NTC by region or total) are bolded for clarity.
+
+% Achieved is calculated as (Actual / Budget) * 100.
