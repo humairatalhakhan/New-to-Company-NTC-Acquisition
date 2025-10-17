@@ -103,7 +103,8 @@ To run this project:
 ---
 
 ## 📬 Connect with Me
-- 💡 Contact me on [LinkedIn](www.linkedin.com/in/humairatalha)
+- 💡 Contact me on <a href="https://www.linkedin.com/in/humairatalha/" target="_blank">LinkedIn</a>
+
   
 ## 📬 Sample Data
 
