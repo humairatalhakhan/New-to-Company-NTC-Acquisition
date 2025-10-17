@@ -103,7 +103,7 @@ To run this project:
 ---
 
 ## 📬 Connect with Me
-- 💡 Contact me on [LinkedIn](https://www.linkedin.com/in/yourprofile) for a sample dashboard Excel file.
+- 💡 Contact me on [LinkedIn](www.linkedin.com/in/humairatalha) for a sample dashboard Excel file.
   
 ## 📬 Sample Data
 
